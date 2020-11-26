@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: School Holidays Special
-        subtitle: Hero subtitle
+        subtitle: School Holidays Special
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
