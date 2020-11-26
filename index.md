@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: School Holidays Special
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
