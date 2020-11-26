@@ -20,11 +20,11 @@ colors:
 
 
 collections:
-  good lobang for families:
+  good-lobang-for-families:
     output: true
-  good deals for couples:
+  good-deals-for-couples:
     output: true
-  good deals for everyone:
+  good-deals-for-everyone:
     output: true
 
 description: An Isomer site of the Singapore Government
