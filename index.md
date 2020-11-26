@@ -14,10 +14,10 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: Highlight A
-              description: Durian Buffet
+              description: XXXXXXXXX
               url: https://google.com
             - title: Highlight B
-              description: Kite Flying Competition
+              description: XXXXXXXXX
               url: https://gmail.com
             - title: Page A
               description: Page A is important too
